@@ -5,7 +5,7 @@
 Клонируем репозиторию
 
 ```bash
-git clone https://github.com/ваш_пользователь/effective-mobile-test.git
+git clone https://github.com/jacobdevops01/effective-mobile-test.git
 ```
 Переходим в директориию проекта:
 ```bash
